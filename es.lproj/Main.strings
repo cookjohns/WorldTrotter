@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "3JI-87-cfh"; */
+"3JI-87-cfh.text" = "grados Celsius";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "3dl-gv-Z96"; */
+"3dl-gv-Z96.text" = "grados Fahrenheit";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "DVV-tE-ZNa"; */
+"DVV-tE-ZNa.title" = "Mapa";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "bf2-EL-PtV"; */
+"bf2-EL-PtV.placeholder" = "valor";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "hpm-um-eY3"; */
+"hpm-um-eY3.title" = "Convertir";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "i4z-gL-1K6"; */
+"i4z-gL-1K6.text" = "es realmente";
+
+/* Class = "UITabBarItem"; title = "airbnb"; ObjectID = "ugr-F7-6hN"; */
+"ugr-F7-6hN.title" = "airbnb";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "y8w-Wv-5ZH"; */
+"y8w-Wv-5ZH.text" = "100";
