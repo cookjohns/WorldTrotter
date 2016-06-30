@@ -33,12 +33,12 @@ class MapViewController: UIViewController, MKMapViewDelegate {
         segmentedControl.addTarget(self, action: #selector(MapViewController.mapTypeChanged(_:)), forControlEvents: .ValueChanged)
         
         // add constraints
-        let topConstaint       = segmentedControl.topAnchor.constraintEqualToAnchor(topLayoutGuide.bottomAnchor, constant: 8)
+        let topConstraint       = segmentedControl.topAnchor.constraintEqualToAnchor(topLayoutGuide.bottomAnchor, constant: 8)
         let margins = view.layoutMarginsGuide
         let leadingConstraint  = segmentedControl.leadingAnchor.constraintEqualToAnchor(margins.leadingAnchor)
         let trailingConstraint = segmentedControl.trailingAnchor.constraintEqualToAnchor(margins.trailingAnchor)
      
-        topConstaint.active       = true
+        topConstraint.active       = true
         leadingConstraint.active  = true
         trailingConstraint.active = true
         
